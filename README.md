@@ -1,4 +1,4 @@
- # Deadlock Simulator (Assets folder)
+  # Deadlock Simulator (Assets folder)
 
 This folder contains the assets and small Python GUI programs for the Deadlock Simulator project (splash screen, intro, and simulator). It's prepared to be tracked with git.
 
